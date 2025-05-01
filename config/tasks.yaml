@@ -1,0 +1,17 @@
+solution_search:
+  description: >
+    Realiza una búsqueda exhaustiva de soluciones tecnológicas open source que puedan reemplazar a soluciones como {target_solution}. Esto incluye evaluar características, soporte comunitario, escalabilidad, seguridad y compatibilidad con sistemas existentes.
+  expected_output: >
+    Un informe completo que detalle las soluciones open source potenciales a la solución {target_solution}, sus ventajas y desventajas, una comparación con alternativas propietarias y una recomendación final basada en criterios empresariales.
+
+opensource_analysis:
+  description: >
+    Recopila, resume y analiza la documentación técnica, reseñas de usuarios y casos de éxito relacionados con las soluciones open source preseleccionadas. Presta especial atención a la mantenibilidad, seguridad y capacidad de integración.
+  expected_output: >
+    Un reporte analítico que ofrezca ideas clave sobre cada solución, incluyendo evaluaciones de riesgo y beneficios potenciales, que permita tomar decisiones fundamentadas.
+
+enterprise_recommendation:
+  description: >
+    Sintetiza los hallazgos de la búsqueda y el análisis de las soluciones open source para desarrollar una recomendación final. Considera aspectos como costo, escalabilidad, seguridad y la adecuación global para entornos empresariales.
+  expected_output: >
+    Un informe de recomendación final que exponga claramente la solución elegida, la justificación de la decisión, consideraciones para la implementación y el impacto esperado en el negocio.

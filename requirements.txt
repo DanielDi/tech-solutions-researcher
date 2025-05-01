@@ -1,0 +1,8 @@
+# Dependencias para el servicio 'tech_researcher'
+python-dotenv
+crewai
+crewai-tools
+uvicorn
+fastapi
+pydantic
+pathlib
